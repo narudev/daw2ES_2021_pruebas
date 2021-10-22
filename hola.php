@@ -6,7 +6,8 @@
   </head>
   <body>
     <?php
-        echo "Hola Paco es un supercampeon!!!!!" 
+        echo "Hola Paco es un supercampeon!!!!!<br>" ;
+        echo "Probando";
     ?>
   </body>
 </html>
